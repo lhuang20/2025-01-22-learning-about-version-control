@@ -1,2 +1,4 @@
-# 2025-01-22-learning-about-version-control
+# Learning about Version Control
 DSCI 310 Individual Assignment 2
+
+Name: Luke Huang
